@@ -11,13 +11,16 @@ Getting Started
 Clone the Repository:
 To clone the repository, run the following command:
 
-```bash
-git clone https://github.com/your-username/vennaAI.git
+## Getting Started
 
-
-To install the required dependencies, run the following command:
-
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/your-username/vennaAI.git
 ```bash
 pip install -r requirements.txt
+```
+### Run the Notebook:
+Open vennaAI.ipynb in Google Colab or your preferred environment.
 
-
+#### Explore and Contribute:
+Feel free to explore the notebook, provide feedback, and contribute to the project's evolution.
